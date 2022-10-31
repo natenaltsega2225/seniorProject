@@ -1,0 +1,244 @@
+{
+    "Injera":{
+    "name": "Injera",
+    "ingredients": [
+        {
+            "quantity": " 2 cups of teff flour",
+            "name": "unsalted butter",
+            "type": "condiments"
+        },
+        {
+            "name": "yeast",
+                "quantity": "1/8 teaspoon active dry yeast",
+                "type": "condiments"
+        },
+        {
+            "quantity": "1 cup self-rising flour",
+                "name": "self-rising flour",
+                "type": "condiments"
+        }
+        
+    ],
+    "steps": [
+        "combine the teff flour and active dry yest using your hand in large bowl.",
+            " cover it with a plastic wrap",
+            " Add the self-rising flour and up to 1 cup of water a little at a time.",
+            "Cover again and let sit for 1 hour",
+            "whisk 1 teaspoon salt into the batter ",
+            " pour 1/4 cup of the batter in the skillet",
+            "when the injera is is about3/4 of the way cooked , cover the skillet and let steam for 1 minute.",
+            "once the edges are dry lift it from the pan",
+            "repeat with the remaining batter "
+ 
+    ],
+    "imageURL": "images/baking_injera.jpg",
+    "originalURL": "https://www.foodnetwork.com/recipes/food-network-kitchen/i"
+
+},
+
+    "CabbageDish":{
+        "name": "Cabbage Dish",
+    "ingredients": [
+        {
+            "name": "olive oil",
+                "quantity": "1/2 cup",
+                "type": "oil"
+        },
+        {
+            "name": "carrorts",
+                "quantity": "4 carrots thinly sliced",
+                "type": "vegetables"
+        },
+        {
+            "name": "onion",
+                "quantity": "1 thinly sliced",
+                "type": "vegetable"
+        },
+        {
+            "name": "Berbere (Red  spice)",
+            "quantity": "2 tablespoons",
+            "type": "spices"
+        },
+        {
+            
+            "name": "salt",
+            "quantity": "1 teaspoon",
+            "type": "salt"
+        },
+        {
+            "name": "ground black pepper",
+                "quantity": "1/2 teaspoon",
+                "type": "spice"
+        },
+        {
+            "name": "ground cumin",
+            "quantity": "1/2 teaspoon",
+            "type": "spice"
+        },
+        {
+            "name": "ground turmeric",
+                "quantity": "1/4 teaspoon",
+                "type": "spice"
+        },
+        {
+            "name": "cabbage shredded",
+                "quantity": "1/2 head",
+                "type": "vegetable"
+        },
+        {
+            "name": "peeled potato",
+            "quantity": "5",
+            "type": "vegetable"
+        }
+        
+    ],
+    "steps": [
+        "Heat the olive olive oil in a 6.5-quart covered stockpot over medium high heat. ",
+            "Toss in the carrots and onion and saute them in the oil for about 5 minutes",
+            "stir in the seasonings(salt ,pepper, cumin,turmeric,ginger) and toast for a minute",
+            "Add in the cabbage and potatoes.stir to combine.",
+            "cover the pan. Reduce the heat to medium-low.Cook until the potatoes are soft, about 30 minutes"
+    ],
+    "imageURL": "images/tikil_gomen.png",
+    "originalURL": "https://thestayathomechef.com/tikel-gomen-ethiopian-cabbage-dish/"
+},
+
+    "Shiro-Wat":{
+    "name": "Shiro Wat",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "1/2 cup",
+            "type": "oil"
+        },
+        {
+            
+            "name": "chickpea flour",
+            "quantity": "1/2 cup",
+            "type": "flour"
+        },
+        {
+            "name": "onion",
+            "quantity": "2 thinly sliced",
+            "type": "vegetable"
+
+        },
+        {
+            
+            "name": "tomato",
+            "quantity": "1",
+            "type": "vegetable"
+        },
+        {
+            "name": "garlic",
+            "quantity": "4",
+            "type": "vegetables"
+        },
+        {
+            "name": "clarified butter(nitter kibe)",
+                "quantity": "2 tablespoons",
+                "type": "condiment"
+        },
+        {
+            "name": "water",
+                "quantity": " 2 to 2 1/2 cups",
+                "type": "water"
+        },
+        {
+            "name": "berbere spice",
+                "quantity": "3 tablespoons",
+                "type": "spice"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1 teaspoon",
+            "type": "condiment"
+        }
+
+    ],
+    "steps": [
+        "heat stockpot to medium heat.Add pureed onions to the dry pan and saute until they becoome dry and start to take on color about 4-5 minutes ",
+        "Add the oil and berbere spice.Salute for 1-2 minutes until fragrant",
+        "Next Add tomato and chopped garlic .Salute for 2-3 minutes more",
+        "Add in the cabbage and potatoes.stir to combine.",
+        "cover the pan. Reduce the heat to medium-low.Cook until the potatoes are soft, about 30 minutes",
+        "Now start whisking in about half of the chickpea flour.",
+        " Gradually start to add about 1 cup of water. Whisk in the remaining chickpea flour and an additional 1 cup of water.",
+        " Whisk until mixture is very smooth. Add remaining ½ cup of water if you prefer your shiro a little thinner. ",
+        "Heat until the shiro begins to pop (simmer). Then add the niter kibbeh, garlic powder, sugar, and salt to taste, stirring until combined.",
+        "Simmer for about 5-10 minutes over low heat until the flavors combine and the oil separates slightly from the shiro.",
+        "Garnish with jalepeno, if desired.Serve with fresh injera."
+   
+    ],
+    "imageURL": "images/shiro-wot.jpg",
+    "originalURL": "https://thestayathomechef.com/tikel-gomen-ethiopian-cabbage-dish/"
+},
+
+
+
+"CollardGreens":{
+    "name": "CollardGreens",
+    "ingredients": [
+        {
+            "name": "Clarified butter(Nitter Kibeh)",
+                "quantity": "3 tablespoons",
+                "type": "condiment"
+        },
+        {
+            
+            "name": "minced garlic",
+            "quantity": "2 cloves",
+            "type": "vegetable"
+        },
+        {
+            "name": "yellow onion",
+            "quantity": "1 large",
+            "type": "vegetable"
+
+        },
+        {
+            
+            
+            "name": " ground cumin",
+            "quantity": "1 tablespoon",
+            "type": "spice"
+        },
+        {
+            "name": "ground coriander",
+            "quantity": "1 teaspoon",
+            "type": "spice"
+        },
+        {
+            "name": "clarified butter(nitter kibe)",
+                "quantity": "2 tablespoons",
+                "type": "condiment"
+        },
+        {
+            "name": "salt",
+                "quantity": "1/2 tablespoons",
+                "type": "condiment"
+        },
+        {
+            "name": "washed thick stems ,collard greens",
+                "quantity": " 12 ounces",
+                "type": "vegetable"
+        }
+        
+
+    ],
+    "steps": [
+        " Heat niter kibbeh in a pan over medium high heat.",
+            " Add the onion and cook until soft and translucent, 5-7 minutes. ",
+            " Add the garlic, ginger and spices and cook for 2-3 minutes.",
+            "Add the collard greens and another tablespoon of niter kibbeh and cook until the collards turn bright green and are wilted but still a slightly crispy, 5-7 minutes. ",
+            "Add more spices and/or niter kibbeh to taste.",
+            "Garnish with jalepeno, if desired.Serve with fresh injera."   
+    ],
+    "imageURL": "images/collard_green.jpg",
+    "originalURL": "https://www.daringgourmet.com/gomen-ethiopian-collard-greens/"
+}
+}
+
+
+
+    
