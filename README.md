@@ -1,4 +1,4 @@
-#EthioFood an Ethiopian food reccomendation responsive website.
+#EthioFood an Ethiopian food reccomendation and recipe sharing  responsive website
 
 # Getting Started with Create React App
 
