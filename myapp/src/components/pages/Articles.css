@@ -1,0 +1,113 @@
+*{
+    font-family: 'Open Sans' , 'san-serif';
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .card-artl {
+    border: 2px solid hsl(0, 0%, 0%);
+    width: 140vh;
+    margin: 0px;
+    height: 400px;
+    margin-top: 10vh;
+  }
+  
+  .card-artl img {
+    width: 40vw;
+    height: 300px;
+    /* margin-left: 100px; */
+  }
+  
+  .card-artl button {
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 400px;
+    padding: 10px 30px;
+  }
+  
+  .card-artl_2 {
+    border: 2px solid black;
+    width: 140vh;
+    height: 400px;
+    margin-left: 30vh;
+    margin-top: 40px;
+  }
+  
+  .card-artl_2 img {
+    width: 40vw;
+    height: 300px;
+    margin-left: 80px;
+  }
+  
+  .card-artl_2 button {
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 400px;
+    padding: 10px 30px;
+  }
+  
+  .hero-container .artl_heading {
+    text-align: center;
+    font-size: 24px;
+    /* margin-top: 30vh; */
+    color: green;
+  }
+  
+  .hero-container .artl_text {
+    text-align: center;
+    font-size: 16px;
+    color: green;
+  }
+  
+  @media screen and (max-width: 960px) {
+    .hero-container .artl_heading {
+      font-size: 40px;
+      margin-top: 40vh;
+      margin-left: 50vh;
+      color: green;
+      width: 40vh;
+    }
+    .hero-container .artl_text {
+      font-size: 20px;
+      width: 20vh;
+      margin-left: 60vh;
+      font-size: 28px;
+      width: 40vh;
+    }
+    .card-artl {
+      border: 2px solid black;
+      width: 60vh;
+      height: 800px;
+      margin-left: 10vh;
+      margin-top: 30vh;
+    }
+    .card-artl img {
+      width: 50vh;
+      height: 60vh;
+      margin-left: 20px;
+    }
+    .card-artl button {
+      margin-top: 30vh;
+      text-align: center;
+      margin-left: 140px;
+      padding: 10px 30px;
+    }
+    .card-artl_2 {
+      border: 2px solid black;
+      width: 60vh;
+      height: 100vh;
+      margin-left: 10vh;
+    }
+    .card-artl_2 img {
+      width: 50vh;
+      height: 80vh;
+      margin-right: 60px;
+    }
+    .card-artl_2 button {
+      margin-top: 10vh;
+      text-align: center;
+      margin-left: 130px;
+      padding: 10px 30px;
+    }
+  }
