@@ -68,7 +68,7 @@ const Home = () => {
           Ethiopia has nine world heritage sites recognized and protected by UNESCO.
           Ethiopians don’t need any utensils, they use their hands to eat. Everyone gathers around the table and digs
           into a communal platter that is shared with each other.
-          The food that is consumed mainly in the country is injera.
+          The food that is consumed mainly in the country is Injera.
           It is a pancake-like flat bread and it's made from Teff flour.
           Ethiopian food is well flavored with a mixture of different spices and herbs, not extremely spicy in heat,
           but rather very well seasoned.
@@ -79,7 +79,7 @@ const Home = () => {
           On the other hand, foods like Doro wat (chicken stew), key wet (beef stew ), Gomen be siga ( beef with
           collard greens ), and Kitfo (raw minced beef) are the foods consumed other than Wednesdays and Fridays.
           Unlike the other states in the US, we don’t have an Ethiopian restaurant in Mississippi.
-          This means a lot of Mississpean don’t know what Ethiopian food looks or tastes like.
+          This means a lot of Mississippian don’t know what Ethiopian food looks or tastes like.
           This is because there is a small number of Ethiopians living in Mississippi.
           That makes it challenging for the Mississippians to find an Ethiopian restaurant and to try the food.
           Even though there might be few people who had experience somewhere else, they won’t be able to have that
