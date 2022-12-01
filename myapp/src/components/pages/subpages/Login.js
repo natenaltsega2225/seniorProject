@@ -1,3 +1,7 @@
+
+import React,{useState} from 'react';
+import { Link, useNavigate,useLocation} from "react-router-dom";
+import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword } from 'firebase/auth'
 import app from '../../../fireConfig'
 import swal from 'sweetalert'
 import Avatar from '@mui/material/Avatar';
@@ -12,10 +16,6 @@ import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-
-
-
-
 
 
 const auth = getAuth(app)
@@ -42,6 +42,7 @@ const [password,setPassword] = useState()
       })
   }
 
+  
 
   return (
     <Container style={{
@@ -126,3 +127,4 @@ const [password,setPassword] = useState()
 
 
 export default Login;
+
