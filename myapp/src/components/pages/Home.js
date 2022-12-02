@@ -16,10 +16,7 @@ const Home = () => {
 
     <div>
        <Navbar />
-        {/* <div className='hero-container' aria-label="Welcome message">
-          <h1 className="home_heading">Welcome To the Ethioipan Food Guide</h1>
-          <p className="home_text">The right place to learn about Ethiopian Foods</p>
-        </div> */}
+
 
     <div className='heading-container'>
       <h1>Welcome To the Ethioipan Food Guide</h1>
@@ -29,19 +26,19 @@ const Home = () => {
     <Grid container xs={12} md={12} lg={12} spacing={2} style={{marginTop:'100px'}}>
       <Grid item xs={12} md={4} style={{justifyContent:'center',display:'flex',flexDirection:'column',alignItems:'center'}}>
           <img src="images/injera_roll.jpg" alt="Injera" className='home-card-img'/>
-          <Link to="/Recipies" style={{}}>
+          <Link to="/Recipies" style={{textDecoration:'none'}}>
             <button className='button-home-page' aria-label="Food button">Recipies </button>
           </Link>
       </Grid>
       <Grid item xs={12} md={4} style={{justifyContent:'center',display:'flex',flexDirection:'column',alignItems:'center'}}>
           <img src="images/spices.jpg" alt="Ingredients" className='home-card-img'/>
-          <Link to="/Ingredients">
+          <Link to="/Ingredients" style={{textDecoration:'none'}}>
             <button className='button-home-page' aria-label="Ingredients button"> Ingredients </button>
           </Link>
       </Grid>
       <Grid item xs={12} md={4} style={{justifyContent:'center',display:'flex',flexDirection:'column',alignItems:'center'}}>
           <img src="images/cookware.jpg" alt="Cookware" className='home-card-img'/>
-          <Link to="/Cook" >
+          <Link to="/Cook" style={{textDecoration:'none'}}>
             <button className='button-home-page' aria-label="Cook button"> Cook </button>
           </Link>
       </Grid>
@@ -56,7 +53,7 @@ const Home = () => {
           <p>A bit about  Ethiopian Food and Culture</p>
       </div>
 
-          <p style={{marginTop:'20px',fontFamily:'Open Sans',fontSize:'20px',padding:'50px'}}>
+          <p style={{marginTop:'20px',fontFamily:'Open Sans',fontSize:'20px',padding:'50px',lineHeight: 2}}>
           Ethiopia is located in the eastern part of Africa and is rich in diversified culture, religion, food, and
           archeological sites.
           Ethiopia is also one of the countries next to Liberia which was not colonized by any European country.
@@ -68,7 +65,7 @@ const Home = () => {
           Ethiopia has nine world heritage sites recognized and protected by UNESCO.
           Ethiopians don’t need any utensils, they use their hands to eat. Everyone gathers around the table and digs
           into a communal platter that is shared with each other.
-          The food that is consumed mainly in the country is Injera.
+          The food that is consumed mainly in the country is injera.
           It is a pancake-like flat bread and it's made from Teff flour.
           Ethiopian food is well flavored with a mixture of different spices and herbs, not extremely spicy in heat,
           but rather very well seasoned.
@@ -79,7 +76,7 @@ const Home = () => {
           On the other hand, foods like Doro wat (chicken stew), key wet (beef stew ), Gomen be siga ( beef with
           collard greens ), and Kitfo (raw minced beef) are the foods consumed other than Wednesdays and Fridays.
           Unlike the other states in the US, we don’t have an Ethiopian restaurant in Mississippi.
-          This means a lot of Mississippian don’t know what Ethiopian food looks or tastes like.
+          This means a lot of Mississpean don’t know what Ethiopian food looks or tastes like.
           This is because there is a small number of Ethiopians living in Mississippi.
           That makes it challenging for the Mississippians to find an Ethiopian restaurant and to try the food.
           Even though there might be few people who had experience somewhere else, they won’t be able to have that
