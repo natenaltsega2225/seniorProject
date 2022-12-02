@@ -27,12 +27,10 @@ const navigate = useNavigate();
   const [isAdmin,setIsadmin] = useState(false)
 
 useEffect(()=>{
-// this function is listener for checking user current session 
-    // https://firebase.google.com/docs/auth/web/start
+
     onAuthStateChanged(auth, (user) => {
       if (user) {
-        // User is signed in, see docs for a list of available properties
-        // https://firebase.google.com/docs/reference/js/firebase.User
+       
         const uid = user.uid;
 
         setUser(user)
